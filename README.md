@@ -16,7 +16,7 @@ The App Supports English / Arabic Languages
 
 
 ```bash
-$ git clone https://github.com/AmiraYossef24/weatherApp
+$ git clone (https://github.com/AmiraYossef24/weatherApp)
 $ cd yourproject
 $ npm install
 ### Hi there 👋
