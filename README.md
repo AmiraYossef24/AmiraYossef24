@@ -1,3 +1,24 @@
+# weather App
+
+ Displays the weather status and the temperature for your current location, Also you can pick a specific location on the map to add it to a list of favorite locations and get all the weather information for this location. 
+You can set an alert for updates on your current location. 
+The App Supports English / Arabic Languages
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+
+```bash
+$ git clone https://github.com/AmiraYossef24/weatherApp
+$ cd yourproject
+$ npm install
 ### Hi there 👋
 
 <!--
